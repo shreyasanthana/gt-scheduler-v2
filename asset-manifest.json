@@ -1,15 +1,25 @@
 {
-  "main.css": "/gt-scheduler/static/css/main.df8aa3bc.chunk.css",
-  "main.js": "/gt-scheduler/static/js/main.6875ddae.chunk.js",
-  "main.js.map": "/gt-scheduler/static/js/main.6875ddae.chunk.js.map",
-  "static/css/1.2a8a0d29.chunk.css": "/gt-scheduler/static/css/1.2a8a0d29.chunk.css",
-  "static/js/1.968c054e.chunk.js": "/gt-scheduler/static/js/1.968c054e.chunk.js",
-  "static/js/1.968c054e.chunk.js.map": "/gt-scheduler/static/js/1.968c054e.chunk.js.map",
-  "runtime~main.js": "/gt-scheduler/static/js/runtime~main.3e8e58b9.js",
-  "runtime~main.js.map": "/gt-scheduler/static/js/runtime~main.3e8e58b9.js.map",
-  "static/css/main.df8aa3bc.chunk.css.map": "/gt-scheduler/static/css/main.df8aa3bc.chunk.css.map",
-  "static/css/1.2a8a0d29.chunk.css.map": "/gt-scheduler/static/css/1.2a8a0d29.chunk.css.map",
-  "index.html": "/gt-scheduler/index.html",
-  "precache-manifest.2a0e8e3896a8577032ed4654fc4b1e9e.js": "/gt-scheduler/precache-manifest.2a0e8e3896a8577032ed4654fc4b1e9e.js",
-  "service-worker.js": "/gt-scheduler/service-worker.js"
+  "files": {
+    "main.css": "/gt-scheduler-v2/static/css/main.ebfabd77.chunk.css",
+    "main.js": "/gt-scheduler-v2/static/js/main.6aeaf995.chunk.js",
+    "main.js.map": "/gt-scheduler-v2/static/js/main.6aeaf995.chunk.js.map",
+    "runtime-main.js": "/gt-scheduler-v2/static/js/runtime-main.3c40c87c.js",
+    "runtime-main.js.map": "/gt-scheduler-v2/static/js/runtime-main.3c40c87c.js.map",
+    "static/css/2.dbfcb6dd.chunk.css": "/gt-scheduler-v2/static/css/2.dbfcb6dd.chunk.css",
+    "static/js/2.6626d03f.chunk.js": "/gt-scheduler-v2/static/js/2.6626d03f.chunk.js",
+    "static/js/2.6626d03f.chunk.js.map": "/gt-scheduler-v2/static/js/2.6626d03f.chunk.js.map",
+    "index.html": "/gt-scheduler-v2/index.html",
+    "precache-manifest.c64f5e0a83bc4f51af6417bdb941eba2.js": "/gt-scheduler-v2/precache-manifest.c64f5e0a83bc4f51af6417bdb941eba2.js",
+    "service-worker.js": "/gt-scheduler-v2/service-worker.js",
+    "static/css/2.dbfcb6dd.chunk.css.map": "/gt-scheduler-v2/static/css/2.dbfcb6dd.chunk.css.map",
+    "static/css/main.ebfabd77.chunk.css.map": "/gt-scheduler-v2/static/css/main.ebfabd77.chunk.css.map",
+    "static/js/2.6626d03f.chunk.js.LICENSE.txt": "/gt-scheduler-v2/static/js/2.6626d03f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3c40c87c.js",
+    "static/css/2.dbfcb6dd.chunk.css",
+    "static/js/2.6626d03f.chunk.js",
+    "static/css/main.ebfabd77.chunk.css",
+    "static/js/main.6aeaf995.chunk.js"
+  ]
 }
